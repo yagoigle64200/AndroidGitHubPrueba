@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
     BottomNavigationView mBottomNavigation;
     FusedLocationProviderClient flClient;
     Location miLoc;
+    //Hola
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
