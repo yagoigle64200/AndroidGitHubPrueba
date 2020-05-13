@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    // Con este método verificamos si tenemos los permisos de la localización
+    // Con este método verificamos si tenemos los permisos de la localización eeeeeeeeeeeeee
     @Override
     public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
         switch (requestCode){
