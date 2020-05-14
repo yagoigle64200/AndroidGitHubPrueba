@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
     private static final int MY_PERMISSIONS_REQUEST_ACCESS_LOCATION =123;
 
-    //eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    //master
 
     public static final String LAT_KEY = "LAT";
     public static final String LON_KEY = "LON";
